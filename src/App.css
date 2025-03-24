@@ -75,3 +75,19 @@
   text-decoration: none;
   color: white;
 }
+.card-container{
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-right: 250px;
+}
+.trackmate-card{
+  margin-left: 250px;
+}
+
+.Logo{
+  position: fixed;
+  left: 30px;
+}

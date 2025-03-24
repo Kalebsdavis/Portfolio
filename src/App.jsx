@@ -3,6 +3,8 @@ import './App.css';
 import { BrowserRouter as Router, Route, Routes, useLocation } from "react-router-dom";
 import LandingPage from './LandingPage';
 import NavBar from './NavBar';
+import TrackMateInfo from './TrackMate/views/TrackMateInfo';
+import RVInfo from './RV/views/RVinfo';
 
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
       <NavBar/>
       <Routes>
         <Route index path='/' element={<LandingPage/>}/>
+        <Route path='/TrackMateInfo' element={<TrackMateInfo/>}/>
+        <Route path='/RVInfo' element={<RVInfo/>}/>
       </Routes>
     </Router>
     

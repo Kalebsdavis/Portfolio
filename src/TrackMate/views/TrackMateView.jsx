@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import trackMateSignup from '../../imgs/TrackMate-signup.png';
 import { useNavigate } from 'react-router-dom';
-import Gallery from '../components/ImageGallery';
+import Gallery from '../components/TrackMateGallery';
 
 const TrackMateView = () =>{
   let navigate = useNavigate();

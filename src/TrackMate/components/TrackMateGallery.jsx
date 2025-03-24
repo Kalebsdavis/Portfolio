@@ -9,7 +9,7 @@ import trackMateLogIn from '../../imgs/TrackMate-login.png';
 import trackMateAdminTools from '../../imgs/TrackMate-adminttools.png';
 import '../styles/ImageGallery.css';
 
-const Gallery = () => {
+const TrackMateGallery = () => {
   return (
     <MDBCarousel  showControls fade>
       <MDBCarouselItem>
@@ -27,4 +27,4 @@ const Gallery = () => {
   );
 }
 
-export default Gallery;
+export default TrackMateGallery;
