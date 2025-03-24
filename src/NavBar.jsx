@@ -16,9 +16,9 @@ const NavBar = () =>{
             <div className="links">
                 
                 <ul className="github-links">
-                    <li><NavLink>Github link1</NavLink></li>
-                    <li><NavLink>Github link2</NavLink></li>
-                    <li><NavLink>Github link3</NavLink></li>
+                    <li><NavLink to='https://github.com/Kalebsdavis'>Github</NavLink></li>
+                    <li><NavLink to='https://www.linkedin.com/in/kaleb-davis-77037b336'>LinkedIn</NavLink></li>
+                    <li><NavLink>801-680-8324</NavLink></li>
                 </ul>
             </div>
         </div>
