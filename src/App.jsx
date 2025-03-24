@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Routes, useLocation } from "react-router-dom";
+import { HashRouter as Router, Route, Routes, useLocation } from "react-router-dom";
 import LandingPage from './LandingPage';
 import NavBar from './NavBar';
 import TrackMateInfo from './TrackMate/views/TrackMateInfo';
