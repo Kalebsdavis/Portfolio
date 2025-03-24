@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.02f1aecc.css",
+    "main.js": "/Portfolio/static/js/main.74c3911f.js",
+    "static/js/453.8ab44547.chunk.js": "/Portfolio/static/js/453.8ab44547.chunk.js",
+    "static/media/CalendarSelection.png": "/Portfolio/static/media/CalendarSelection.6bf1c364d498aed916be.png",
+    "static/media/EmployeeReservations.png": "/Portfolio/static/media/EmployeeReservations.9084623619d218879ec0.png",
+    "static/media/TrackMate-login.png": "/Portfolio/static/media/TrackMate-login.161c24d3f1c402ab973d.png",
+    "static/media/TrackMate-signup.png": "/Portfolio/static/media/TrackMate-signup.10d0a56a54c6b3d46ac2.png",
+    "static/media/TrackMate-adminttools.png": "/Portfolio/static/media/TrackMate-adminttools.c3aa4af5aa8f5a0ca748.png",
+    "static/media/CalendarSelection2.png": "/Portfolio/static/media/CalendarSelection2.9eabb8457378d2d7422d.png",
+    "static/media/MyReservations.png": "/Portfolio/static/media/MyReservations.a970c009c228b30ab59c.png",
+    "static/media/Payment.png": "/Portfolio/static/media/Payment.bb3d3ca42a8c80e4aca2.png",
+    "static/media/LandingPage.png": "/Portfolio/static/media/LandingPage.a72af5bcda091680f32e.png",
+    "static/media/ChangeUserRoles.png": "/Portfolio/static/media/ChangeUserRoles.c0b6bc7d8c866127a94e.png",
+    "static/media/EmployeeView.png": "/Portfolio/static/media/EmployeeView.ddaaace21b3a593a9b72.png",
+    "static/media/AdminView.png": "/Portfolio/static/media/AdminView.4f50831b6ec9cd174cf3.png",
+    "index.html": "/Portfolio/index.html",
+    "main.02f1aecc.css.map": "/Portfolio/static/css/main.02f1aecc.css.map",
+    "main.74c3911f.js.map": "/Portfolio/static/js/main.74c3911f.js.map",
+    "453.8ab44547.chunk.js.map": "/Portfolio/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f1aecc.css",
+    "static/js/main.74c3911f.js"
+  ]
+}
