@@ -1,6 +1,7 @@
 import './App.css'
 import TrackMate from './TrackMate/TrackMate';
 import RV from './RV/RV';
+import BankApp from './BankApp/BankApp';
 import { Link } from 'react-router-dom';
 
 const LandingPage = () =>{
@@ -12,6 +13,7 @@ const LandingPage = () =>{
             <div className='card-container'>
             <div className='trackmate-card'><TrackMate/></div>
             <div className='trackmate-card'><RV/></div>
+            <div className='trackmate-card'><BankApp/></div>
             </div>
         </div>
     </div>

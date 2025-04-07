@@ -18,8 +18,8 @@ import '../styles/RVGallery.css';
 
 const TrackMateGallery = () => {
   return (
-    <MDBCarousel  showControls fade>
-      <MDBCarouselItem>
+    <MDBCarousel  showControls fade interval={2500}>
+      <MDBCarouselItem className="active" interval={1000}>
         <img src={RVLandingPage} className="d-block w-100" alt="LandingPage" />
       </MDBCarouselItem>
 
