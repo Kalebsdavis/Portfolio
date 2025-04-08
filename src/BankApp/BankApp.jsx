@@ -8,7 +8,7 @@ const BankApp =() =>{
 
     return(
     <Container fluid>
-        <Row classname='g-0'>
+        <Row className='g-0'>
             <Col md={8} className="main-content">
                 <Routes>
                     <Route path='/' element={<BankView/>}/>

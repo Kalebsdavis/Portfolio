@@ -5,6 +5,7 @@ import LandingPage from './LandingPage';
 import NavBar from './NavBar';
 import TrackMateInfo from './TrackMate/views/TrackMateInfo';
 import RVInfo from './RV/views/RVinfo';
+import BankInfo from './BankApp/views/BankInfor'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route index path='/' element={<LandingPage/>}/>
         <Route path='/TrackMateInfo' element={<TrackMateInfo/>}/>
         <Route path='/RVInfo' element={<RVInfo/>}/>
+        <Route path='/BankInfo' element={<BankInfo/>}/>
       </Routes>
     </Router>
     
