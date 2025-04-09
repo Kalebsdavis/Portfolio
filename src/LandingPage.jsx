@@ -23,9 +23,15 @@ const LandingPage = () =>{
                     A Full Stack Developer <span className='cursor'/>
                 </h2>
             <p style={{marginTop:'1rem',  color:'white'}}>Austin, Texas</p>
-            <p style={{marginTop:'1rem',  color:'white'}}><FaReact size={20}/>React.js  <FaNode size={20}/>Node.js  <SiNextdotjs size={20}/>Next.js   <DiDjango size={20}/>Django   
-            <SiMongodb size={20}/>MongoDB   <GrMysql size={20} />MySQL  
-            <BiLogoPostgresql size={20} />PostgreSQL    <SiSqlite size={20} />SQLite
+            <p style={{ marginTop: '1rem', color: 'white' }}>
+                <span style={{ marginRight: '1rem' }}><FaReact size={20} /> React.js</span>
+                <span style={{ marginRight: '1rem' }}><FaNode size={20} /> Node.js</span>
+                <span style={{ marginRight: '1rem' }}><SiNextdotjs size={20} /> Next.js</span>
+                <span style={{ marginRight: '1rem' }}><DiDjango size={20} /> Django</span>
+                <span style={{ marginRight: '1rem' }}><SiMongodb size={20} /> MongoDB</span>
+                <span style={{ marginRight: '1rem' }}><GrMysql size={20} /> MySQL</span>
+                <span style={{ marginRight: '1rem' }}><BiLogoPostgresql size={20} /> PostgreSQL</span>
+                <span><SiSqlite size={20} /> SQLite</span>
             </p>
              <h2 style={{fontWeight:'normal', fontSize:'30px',marginTop:'3rem', color:'white', textShadow:' 1px 1px 10px rgb(255, 255, 255)'}}>Projects</h2>
            </div>
