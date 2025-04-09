@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.71a9680c.css",
-    "main.js": "/Portfolio/static/js/main.acaf08f3.js",
+    "main.css": "/Portfolio/static/css/main.993c15c0.css",
+    "main.js": "/Portfolio/static/js/main.a98802da.js",
     "static/js/453.8ab44547.chunk.js": "/Portfolio/static/js/453.8ab44547.chunk.js",
     "static/media/CalendarSelection.png": "/Portfolio/static/media/CalendarSelection.6bf1c364d498aed916be.png",
     "static/media/EmployeeReservations.png": "/Portfolio/static/media/EmployeeReservations.9084623619d218879ec0.png",
@@ -21,12 +21,12 @@
     "static/media/TransactionTool.png": "/Portfolio/static/media/TransactionTool.203e9082b1fd4cf3f3a5.png",
     "static/media/LogIn.png": "/Portfolio/static/media/LogIn.87449f612adf3b942861.png",
     "index.html": "/Portfolio/index.html",
-    "main.71a9680c.css.map": "/Portfolio/static/css/main.71a9680c.css.map",
-    "main.acaf08f3.js.map": "/Portfolio/static/js/main.acaf08f3.js.map",
+    "main.993c15c0.css.map": "/Portfolio/static/css/main.993c15c0.css.map",
+    "main.a98802da.js.map": "/Portfolio/static/js/main.a98802da.js.map",
     "453.8ab44547.chunk.js.map": "/Portfolio/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71a9680c.css",
-    "static/js/main.acaf08f3.js"
+    "static/css/main.993c15c0.css",
+    "static/js/main.a98802da.js"
   ]
 }
